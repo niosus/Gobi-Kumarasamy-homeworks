@@ -17,11 +17,11 @@ int main() {
   cout << "Welcome to the GUESSING GAME!" << endl;
   cout << "I will generate a number and you will guess it!" << endl;
 
-  cout << "Please provide the smallest number :" << endl;
+  cout << "Please provide the smallest number:" << endl;
   double low_bound{};
   cin >> low_bound;
 
-  cout << "Please provide the largest number :" << endl;
+  cout << "Please provide the largest number:" << endl;
   double up_bound{};
   cin >> up_bound;
 
