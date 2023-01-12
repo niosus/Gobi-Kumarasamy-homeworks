@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/string_trim_test.dir/string_trim_test.cpp.o -o string_trim_test  ../lib/libgtest_main.a libstring_trim.a ../lib/libgtest.a 

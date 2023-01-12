@@ -1,5 +1,0 @@
-if(EXISTS "/home/gkumaras/Projects/CppCourse/CPP_homeworks/homeworks/homework_4/no_strings_attached/build/no_strings_attached/string_trim_test[1]_tests.cmake")
-  include("/home/gkumaras/Projects/CppCourse/CPP_homeworks/homeworks/homework_4/no_strings_attached/build/no_strings_attached/string_trim_test[1]_tests.cmake")
-else()
-  add_test(string_trim_test_NOT_BUILT string_trim_test_NOT_BUILT)
-endif()

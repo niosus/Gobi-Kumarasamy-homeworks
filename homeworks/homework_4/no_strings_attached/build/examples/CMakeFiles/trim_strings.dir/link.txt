@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/trim_strings.dir/trim_strings.cpp.o -o trim_strings  ../no_strings_attached/libstring_trim.a 
