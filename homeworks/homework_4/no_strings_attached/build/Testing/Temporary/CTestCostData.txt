@@ -1,0 +1,8 @@
+SplitValidationTest.SplitDelimeterNotFound 1 0.0018012
+SplitValidationTest.SplitTwoWordsOnString 1 0.001634
+SplitValidationTest.SplitMoreWords 1 0.0019559
+SplitValidationTest.RepeatedString 1 0.0028596
+TrimValidationTest.TrimEmpty 1 0.0020723
+TrimValidationTest.TrimTrivial 1 0.0017595
+TrimValidationTest.TrimCorrect 1 0.0017241
+---

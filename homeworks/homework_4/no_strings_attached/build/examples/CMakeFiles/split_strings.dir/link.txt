@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/split_strings.dir/split_strings.cpp.o -o split_strings  ../no_strings_attached/libstring_split.a 

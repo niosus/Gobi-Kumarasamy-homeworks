@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstring_trim.a CMakeFiles/string_trim.dir/string_trim.cpp.o
+/usr/bin/ranlib libstring_trim.a

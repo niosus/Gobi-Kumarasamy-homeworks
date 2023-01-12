@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/string_split_test.dir/string_split_test.cpp.o -o string_split_test  ../lib/libgtest_main.a libstring_split.a ../lib/libgtest.a 
