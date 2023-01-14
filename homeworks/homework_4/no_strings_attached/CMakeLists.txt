@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.16..3.24)
 project(no_strings_attached VERSION 1
         DESCRIPTION "Writing a string processing library"
-        LANGUAGES CXX)   
-        
+        LANGUAGES CXX)
+
 if(NOT CMAKE_BUILD_TYPE)
     set(CMAKE_BUILD_TYPE Release CACHE STRING "" FORCE)
 endif()
@@ -21,9 +21,6 @@ include(external/UpdateSubmodules.cmake)
 include(CTest)
 
 # 🚨 Make sure CMakeLists.txt file exists in the subdirectories!
-add_subdirectory(examples)
 add_subdirectory(external)
 add_subdirectory(${PROJECT_NAME})
-
-
-
+add_subdirectory(examples)
